@@ -44,7 +44,7 @@ A **growth mindset** encourages continuous learning and improvement. This projec
 
 ---
 ## 🌍 Live Demo
-Check out the live version of the app here: **[Deployed App Link](https://your-app-link.streamlit.app)**
+Check out the live version of the app here: **[Deployed App Link](https://growth-mindset-challenge-lcvftjdmvs3y3gjrv55phw.streamlit.app/)**
 
 ---
 ## 📩 Contact
